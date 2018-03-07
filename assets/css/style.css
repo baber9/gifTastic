@@ -1,0 +1,18 @@
+#sitcom-buttons button {
+    margin: 5px;
+}
+
+#sitcom-buttons {
+    margin: 20px auto;
+}
+
+.form-inline {
+    text-align: center;
+    margin: 0 auto;
+}
+
+button#sitcom-submit, label {
+    margin: auto 20px;
+}
+
+
