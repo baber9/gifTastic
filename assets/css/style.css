@@ -8,11 +8,18 @@
 
 .form-inline {
     text-align: center;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 button#sitcom-submit, label {
     margin: auto 20px;
 }
 
+#sitcom-divs {
+    vertical-align: middle;
+}
 
+.sitcom-div {
+    display: inline-block;
+    margin: 10px;
+}
